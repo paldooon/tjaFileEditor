@@ -1,3 +1,5 @@
+※THIS ISN'T COMPLETED.
+
 # .tja editor
 You can edit files which has .tja extension on this web. 
 
